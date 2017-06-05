@@ -41,6 +41,10 @@ html {
 	color: #d7dfea;
 }
 
+.link:visited {
+	color: #d7dfea;
+}
+
 .project {
 	color: #505050;
 	background-color: #e0e0e0;
